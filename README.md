@@ -1,2 +1,4 @@
 # Simple-NO-SQL-DB-simulator
-Project done for IAS Hackathon 
+
+Simulated CRUD operations of a No-SQL database in C++.
+Project done for IAS Hackathon, secured Second Runner Up Position 
